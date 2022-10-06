@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/5、Yolo V3代码讲解/PyTorch-YOLOv3-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5、Yolo V3代码讲解/PyTorch-YOLOv3-code/data/coco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9、项目总结/network-slimming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9、项目总结/yolov3_tricks" vcs="Git" />
+  </component>
+</project>
